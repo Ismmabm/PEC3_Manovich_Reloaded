@@ -5,9 +5,9 @@ Autor: Ismael Benito Martin
 Fecha: 19/12/2025
 
 
-## Planteamiento
+## Introducción
 
-El objetivo de esta PEC es realizar un ensayo sobre dos casos de hibridación moderna
+La hibridación, según Lev Manovich, se produce cuando distintos medios y lenguajes que antes existían por separado se combinan dentro del software. Esta combinación no consiste solo en juntar elementos diferentes, sino en fusionarlos de manera que intercambian funciones y crean nuevas formas de interacción. A través del software, estas mezclas dan lugar a experiencias nuevas que no podrían existir sin el entorno digital.
 
 
 ## Re-descubriendo la hibridacion: Caso 1 - SimCity como caso de hibridación.
