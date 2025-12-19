@@ -12,7 +12,7 @@ El objetivo de esta PEC es realizar un ensayo sobre dos casos de hibridación mo
 
 ## Re-descubriendo la hibridacion: Caso 1 - SimCity como caso de hibridación.
 
-![enter image description here](https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_of_SimCity.png)
+![enter image description here](https://wp.logos-download.com/wp-content/uploads/2019/01/Simcity_Logo_blue_background.png?dl=)
 
 
 
@@ -68,7 +68,7 @@ En conclusión, Strava puede considerarse un ejemplo destacado de hibridación s
 
 ### Imagenes
 
-* Logo SimCity: https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_of_SimCity.png
+* Logo SimCity: https://wp.logos-download.com/wp-content/uploads/2019/01/Simcity_Logo_blue_background.png
 * Logo Strava: https://upload.wikimedia.org/wikipedia/commons/c/cb/Strava_Logo.svg
 * Captura del juego SimCity: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2741560/ss_680598f3db20d2e278c03914c77eb63ce7b59913.jpg
 * Captura de la app Strava: https://cycleandjam.wordpress.com/wp-content/uploads/2019/01/screenshot_20190104-003638_strava9021414925431282991.jpg
