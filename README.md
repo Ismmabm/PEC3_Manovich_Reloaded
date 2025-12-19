@@ -12,6 +12,11 @@ El objetivo de esta PEC es realizar un ensayo sobre dos casos de hibridación mo
 
 ## Re-descubriendo la hibridacion: Caso 1 - SimCity como caso de hibridación.
 
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_of_SimCity.png)
+
+
+
+
 En su libro “*El software toma el mando*”, Lev Manovich analiza cómo el software se ha convertido en un elemento central de la cultura contemporánea. Desde este punto, podemos entender el videojuego SimCity como un ejemplo de hibridación del software, ya que combina distintos medios y lenguajes dentro de un mismo entorno interactivo.
 
 SimCity es conocido principalmente como un videojuego de simulación urbana, donde los usuarios tenemos el rol de gestor o alcalde de una ciudad. Sin embargo, el software tiene elementos propios de la planificación urbana, la economía, la estadística y la visualización de datos. Esta mezcla no se limita a mostrar diferentes medios uno junto a otro, sino que los fusiona.
@@ -31,7 +36,10 @@ En conclusión, SimCity puede considerarse un ejemplo relevante de hibridación 
 
 ## Re-descubriendo la hibridacion: Caso 2 - Strava como caso de hibridación.
 
+
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/c/cb/Strava_Logo.svg)
+
+
 
 En su libro “_El software toma el mando”_, Lev Manovich analiza cómo el software se ha convertido en un elemento central de la cultura contemporánea. Desde esta perspectiva, la aplicación Strava puede ser entendida como un ejemplo de hibridación del software, ya que combina distintos medios y lenguajes dentro de un mismo entorno digital, crea un nuevo tipo de interacción entre cuerpo, espacio, datos y comunidad.
 
@@ -54,7 +62,9 @@ En conclusión, Strava puede considerarse un ejemplo destacado de hibridación s
 * SimCity wikipedia: https://es.wikipedia.org/wiki/SimCity
 * Funciones Strava: https://www.strava.com/features
 
+### Imagenes
+
+* Logo SimCity: https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_of_SimCity.png
+* Logo Strava: https://upload.wikimedia.org/wikipedia/commons/c/cb/Strava_Logo.svg
 
 ----
-
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
