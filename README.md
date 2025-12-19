@@ -21,6 +21,8 @@ En su libro “*El software toma el mando*”, Lev Manovich analiza cómo el sof
 
 SimCity es conocido principalmente como un videojuego de simulación urbana, donde los usuarios tenemos el rol de gestor o alcalde de una ciudad. Sin embargo, el software tiene elementos propios de la planificación urbana, la economía, la estadística y la visualización de datos. Esta mezcla no se limita a mostrar diferentes medios uno junto a otro, sino que los fusiona.
 
+![enter image description here](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2741560/ss_680598f3db20d2e278c03914c77eb63ce7b59913.jpg)
+
 Uno de los primeros medios que confluyen en SimCity es el urbanismo y su planificación. Tradicionalmente, el estudio de la ciudad se realizaba a través de planos, documentos técnicos o decisiones políticas, utilizando un lenguaje propio basado en la zonificación, las infraestructuras y la gestión de recursos. SimCity toma este lenguaje y lo traslada al entorno digital, permitiéndonos interactuar directamente con él.
 
 A este medio se suma la simulación computacional, utilizada en contextos científicos y técnicos para crear sistemas complejos mediante algoritmos y variables. En SimCity, deja de ser una herramienta exclusiva de especialistas y se fusiona en una experiencia interactiva accesible, donde cada decisión que se toma activa procesos algorítmicos que afectan al conjunto del sistema urbano.
@@ -67,4 +69,6 @@ En conclusión, Strava puede considerarse un ejemplo destacado de hibridación s
 * Logo SimCity: https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_of_SimCity.png
 * Logo Strava: https://upload.wikimedia.org/wikipedia/commons/c/cb/Strava_Logo.svg
 
+### Uso de IA
+-   Se ha usado Gemini para la búsqueda de imágenes.
 ----
