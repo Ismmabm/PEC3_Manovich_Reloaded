@@ -1,13 +1,8 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
-
-
-Autor: Ismael Benito MArtin
-
+Autor: Ismael Benito Martin
 
 Fecha: 19/12/2025
-
 
 
 ## Planteamiento
@@ -54,7 +49,9 @@ En conclusión, Strava puede considerarse un ejemplo destacado de hibridación s
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* SimCity wikipedia: https://es.wikipedia.org/wiki/SimCity
+* Funciones Strava: https://www.strava.com/features
 
 
 ----
