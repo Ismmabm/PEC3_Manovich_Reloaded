@@ -31,6 +31,8 @@ En conclusión, SimCity puede considerarse un ejemplo relevante de hibridación 
 
 ## Re-descubriendo la hibridacion: Caso 2 - Strava como caso de hibridación.
 
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/c/cb/Strava_Logo.svg)
+
 En su libro “_El software toma el mando”_, Lev Manovich analiza cómo el software se ha convertido en un elemento central de la cultura contemporánea. Desde esta perspectiva, la aplicación Strava puede ser entendida como un ejemplo de hibridación del software, ya que combina distintos medios y lenguajes dentro de un mismo entorno digital, crea un nuevo tipo de interacción entre cuerpo, espacio, datos y comunidad.
 
 Strava es una aplicación para registrar actividades físicas, como correr o montar en bicicleta, pero su funcionalidad va mucho más allá. La aplicación integra elementos de cartografía, visualización de datos, gamificación y red social, fusionando medios que antes existían por separado y creando una nueva experiencia interactiva única. La actividad física o los entrenamientos dejan de ser un hechos aislados y se convierte en actividades que se miden, se visualizan y se pueden compartir.
