@@ -51,6 +51,8 @@ El principal medio que confluyen en Strava seria la actividad física. Antes, cu
 
 A este primer medio se suma la cartografía con el uso del GPS. Los mapas, que normalmente se utilizaban para orientarse o planificar rutas, se combinan con la actividad física realizada para mostrar las trayectorias precisas en tiempo real. Las rutas realizadas se presentan junto con los indicadores de velocidad, altitud y distancia, dándonos una información espacial y dinámica de la actividad.
 
+![enter image description here](https://cycleandjam.wordpress.com/wp-content/uploads/2019/01/screenshot_20190104-003638_strava9021414925431282991.jpg?w=640)
+
 Otro elemento clave es la visualización de datos. Strava te muestra la información de cada actividad en gráficos, estadísticas y resúmenes, esto facilita la interpretación y el seguimiento histórico de tu rendimiento. Con estos datos visuales podemos valorar nuestro progreso, identificar formas de mejora y comparar resultados de manera clara y accesible, un ejemplo claro de cómo el software organiza la información y la hace operativa.
 
 Además, Strava integra una red social y la gamificación. Las actividades se comparten con los amigos o seguidores, se puede participar en retos o competir en los rankings, tambien se desbloquean medallas. Este apartado social transforma la experiencia individual en colectiva, promueve la interacción entre amigos y otros usuarios generando motivación adicional. La hibridación aquí no solo combina medios, sino que también nos influye a mejorar nuestra actividad a través de la tecnología.
@@ -68,6 +70,8 @@ En conclusión, Strava puede considerarse un ejemplo destacado de hibridación s
 
 * Logo SimCity: https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_of_SimCity.png
 * Logo Strava: https://upload.wikimedia.org/wikipedia/commons/c/cb/Strava_Logo.svg
+* Captura del juego SimCity: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2741560/ss_680598f3db20d2e278c03914c77eb63ce7b59913.jpg
+* Captura de la app Strava: https://cycleandjam.wordpress.com/wp-content/uploads/2019/01/screenshot_20190104-003638_strava9021414925431282991.jpg
 
 ### Uso de IA
 -   Se ha usado Gemini para la búsqueda de imágenes.
